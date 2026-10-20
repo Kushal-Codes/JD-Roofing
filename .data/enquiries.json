@@ -1,0 +1,19 @@
+[
+  {
+    "referenceId": "JPD-2026-84184",
+    "createdAt": "2026-10-18T16:34:21.814Z",
+    "type": "quote",
+    "serviceNeeded": "Flat Roof",
+    "postcode": "BB5 0LU",
+    "propertyType": "Terraced House",
+    "problemDescription": "Need a new EPDM flat roof on our rear kitchen extension in Accrington.",
+    "urgency": "Soon (Within 1–2 Weeks)",
+    "fullName": "David Farrer",
+    "phone": "07512 781329",
+    "email": "david.farrer@example.co.uk",
+    "preferredContact": "Phone Call",
+    "photoCount": 0,
+    "photoMetadata": [],
+    "webhookForwarded": false
+  }
+]
